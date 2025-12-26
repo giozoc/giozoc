@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Ciao, sono Giovanni Antonio Zoccola
 
-<!--
-**giozoc/giozoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Informatico | 🚀 Sviluppatore | 🧠 Problem Solver  
+📍 Giffoni Sei Casali (SA)
 
-Here are some ideas to get you started:
+Sono un informatico appassionato di tecnologia e sviluppo software.  
+Mi piace creare soluzioni pratiche, scrivere codice pulito e migliorarmi continuamente attraverso nuovi progetti e sfide tecniche.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Competenze
+
+- **Linguaggi:** Python, Java, JavaScript, C/C++
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Strumenti:** Git, Linux
+- **Altro:** API REST, scripting, automazione
+
+---
+
+## 📂 Progetti
+
+🔹 **Progetto 1**  
+Gestionale per piccole concessionare  
+Realizzato ai fini dell'esame di Ingegneria del Software  
+Università degli Studi di Salerno - Dipartimento di Informatica  
+👉 https://github.com/giozoc/AutoFlow
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=giozoc&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giozoc&layout=compact&theme=dark)
+
+---
+
+## 📫 Contatti
+
+- 💼 LinkedIn: https://www.linkedin.com/in/giozoc
+- 🌐 GitHub: https://github.com/giozoc
+
+---
+
+⭐ Dai un’occhiata ai miei repository e sentiti libero di lasciare una star!
