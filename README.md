@@ -30,9 +30,9 @@ Università degli Studi di Salerno - Dipartimento di Informatica
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=giozoc&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-eta-weld-16.vercel.app/api/top-langs/?username=giozoc&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giozoc&layout=compact&theme=dark)
+![Top Langs](https://github-readme-streak-stats-phi-sandy.vercel.app?user=giozoc&theme=darcula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
