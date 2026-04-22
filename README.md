@@ -29,7 +29,7 @@ Università degli Studi di Salerno - Dipartimento di Informatica
 🔹 **Progetto 2**
 Automazione intelligente delle consegne studenti (Moodle + ESSE3)
 Sistema per organizzare automaticamente file Moodle utilizzando dati Excel Esse3
-Genera PDF, rinomina cartelle e produce report Excel in modo automatico
+Genera PDF, rinomina cartelle e produce report Excel in modo automatico  
 👉 https://github.com/giozoc/Student-Delivery-Processor
 
 ---
