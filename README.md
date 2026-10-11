@@ -32,6 +32,13 @@ Sistema per organizzare automaticamente file Moodle utilizzando dati Excel Esse3
 Genera PDF, rinomina cartelle e produce report Excel in modo automatico  
 👉 https://github.com/giozoc/Student-Delivery-Processor
 
+🔹 **Progetto 3**  
+Sistema decisionale intelligente per il riassortimento dello stock (AutoFlow Analytics)  
+Modulo analitico di AutoFlow, simula un dataset di vendite, prevede la domanda con Machine Learning e suggerisce le priorità di riassortimento
+Parte sperimentale (Capitolo4 - Tesi di Laurea Triennale)
+Università degli Studi di Salerno - Dipartimento di Informatica  
+👉 https://github.com/giozoc/autoflow-analytics
+
 ---
 
 ## 📊 GitHub Stats
