@@ -20,24 +20,22 @@ Mi piace creare soluzioni pratiche, scrivere codice pulito e migliorarmi continu
 
 ## 📂 Progetti
 
-🔹 **Progetto 1**  
-Gestionale per piccole concessionare  
-Realizzato ai fini dell'esame di Ingegneria del Software  
-Università degli Studi di Salerno - Dipartimento di Informatica  
+🔹 **AutoFlow — Gestionale per concessionarie auto**  
+Gestionale realizzato per l'esame di Ingegneria del Software presso l'Università degli Studi di Salerno, Dipartimento di Informatica.  
 👉 https://github.com/giozoc/AutoFlow
 
-🔹 **Progetto 2**  
-Automazione intelligente delle consegne studenti (Moodle + ESSE3)  
-Sistema per organizzare automaticamente file Moodle utilizzando dati Excel Esse3  
-Genera PDF, rinomina cartelle e produce report Excel in modo automatico  
+🔹 **Student Delivery Processor — Automazione delle consegne studenti**  
+Automatizza l'organizzazione dei file Moodle utilizzando i dati Excel di Esse3. Genera PDF, rinomina cartelle e produce report Excel.  
 👉 https://github.com/giozoc/Student-Delivery-Processor
 
-🔹 **Progetto 3**  
-Sistema decisionale intelligente per il riassortimento dello stock (AutoFlow Analytics)  
-Modulo analitico di AutoFlow, simula un dataset di vendite, prevede la domanda con Machine Learning e suggerisce le priorità di riassortimento
-Parte sperimentale (Capitolo4 - Tesi di Laurea Triennale)
-Università degli Studi di Salerno - Dipartimento di Informatica  
+🔹 **AutoFlow Analytics — Riassortimento intelligente dello stock**  
+Modulo analitico di AutoFlow che simula un dataset di vendite, prevede la domanda con Machine Learning e suggerisce le priorità di riassortimento. Progetto sperimentale sviluppato per il Capitolo 4 della tesi di laurea triennale presso l'Università degli Studi di Salerno, Dipartimento di Informatica.  
 👉 https://github.com/giozoc/autoflow-analytics
+
+🔹 **Tavolo TikZ — Editor visuale per TikZ e pgfplots**  
+Editor visuale che funziona direttamente nel browser e permette di creare e modificare figure TikZ e grafici pgfplots con anteprima immediata. Include modifica visuale degli elementi, editor del codice sincronizzato ed esportazione in TikZ, SVG e PNG.  
+🌐 [Prova la demo online](https://giozoc.github.io/tavolo-tikz/)  
+👉 https://github.com/giozoc/tavolo-tikz
 
 ---
 
