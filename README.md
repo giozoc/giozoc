@@ -24,10 +24,6 @@ Mi piace creare soluzioni pratiche, scrivere codice pulito e migliorarmi continu
 Gestionale realizzato per l'esame di Ingegneria del Software presso l'Università degli Studi di Salerno, Dipartimento di Informatica.  
 👉 https://github.com/giozoc/AutoFlow
 
-🔹 **Student Delivery Processor — Automazione delle consegne studenti**  
-Automatizza l'organizzazione dei file Moodle utilizzando i dati Excel di Esse3. Genera PDF, rinomina cartelle e produce report Excel.  
-👉 https://github.com/giozoc/Student-Delivery-Processor
-
 🔹 **AutoFlow Analytics — Riassortimento intelligente dello stock**  
 Modulo analitico di AutoFlow che simula un dataset di vendite, prevede la domanda con Machine Learning e suggerisce le priorità di riassortimento. Progetto sperimentale sviluppato per il Capitolo 4 della tesi di laurea triennale presso l'Università degli Studi di Salerno, Dipartimento di Informatica.  
 👉 https://github.com/giozoc/autoflow-analytics
