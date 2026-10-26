@@ -34,8 +34,9 @@ Editor visuale che funziona direttamente nel browser e permette di creare e modi
 👉 https://github.com/giozoc/tavolo-tikz
 
 🔹 **Tavolo MathTeX — Strumento per contenuti matematici in LaTeX**  
-Progetto dedicato alla creazione e gestione di contenuti matematici con LaTeX.  
-👉 https://github.com/giozoc/Tavolo-MathTeX
+Progetto dedicato alla creazione e gestione di contenuti matematici con LaTeX. 
+🌐 [Prova la demo online](https://giozoc.github.io/tavolo-mathtex/)  
+👉 https://github.com/giozoc/tavolo-mathtex
 
 ---
 
