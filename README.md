@@ -43,7 +43,7 @@ Editor visuale che funziona direttamente nel browser e permette di creare e modi
 Editor visuale di formule matematiche in LaTeX, utilizzabile direttamente nel browser. Il codice sorgente e la formula sono sincronizzati in entrambe le direzioni; include una barra di strumenti per simboli e strutture matematiche, anteprima e verifica con MathJax ed esportazione in diversi formati.
 
 **🌐 Demo online:** [Apri Tavolo MathTeX](https://giozoc.github.io/tavolo-mathtex/)  
-**💻 Repository:** [giozoc/Tavolo-MathTeX](https://github.com/giozoc/Tavolo-MathTeX)
+**💻 Repository:** [giozoc/Tavolo-MathTeX](https://github.com/giozoc/tavolo-mathtex)
 
 ---
 
